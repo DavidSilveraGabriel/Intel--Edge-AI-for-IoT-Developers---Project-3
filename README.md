@@ -62,36 +62,36 @@ Intel Edge AI for IoT Developers Project-3
        --face-detection-adas-binary-0001
            #face-detection-adas-binary-0001.bin
            #face-detection-adas-binary-0001.xml
-           --gaze-estimation-adas-0002
-               --FP16
-                    #gaze-estimation-adas-0002.bin
-                    #gaze-estimation-adas-0002.xml
-               --FP16-INT8
-                    #gaze-estimation-adas-0002.bin
-                    #gaze-estimation-adas-0002.xml
-               --FP32
-                    #gaze-estimation-adas-0002.bin
-                    #gaze-estimation-adas-0002.xml
-           --head-pose-estimation-adas-0001
-               --FP16
-                    #head-pose-estimation-adas-0001.bin
-                    #head-pose-estimation-adas-0001.xml
-               --FP16-INT8
-                    #head-pose-estimation-adas-0001.bin
-                    #head-pose-estimation-adas-0001.xml
-               --FP32
-                    #head-pose-estimation-adas-0001.bin
-                    #head-pose-estimation-adas-0001.xml
-           --landmarks-regression-retail-0009
-               --FP16
-                    #landmarks-regression-retail-0009.bin
-                    #landmarks-regression-retail-0009.xml
-               --FP16-INT8
-                    #landmarks-regression-retail-0009.bin
-                    #landmarks-regression-retail-0009.xml
-               --FP32
-                    #landmarks-regression-retail-0009.bin
-                    #landmarks-regression-retail-0009.xml
+       --gaze-estimation-adas-0002
+           --FP16
+                #gaze-estimation-adas-0002.bin
+                #gaze-estimation-adas-0002.xml
+           --FP16-INT8
+                #gaze-estimation-adas-0002.bin
+                #gaze-estimation-adas-0002.xml
+           --FP32
+                #gaze-estimation-adas-0002.bin
+                #gaze-estimation-adas-0002.xml
+       --head-pose-estimation-adas-0001
+           --FP16
+                #head-pose-estimation-adas-0001.bin
+                #head-pose-estimation-adas-0001.xml
+           --FP16-INT8
+                #head-pose-estimation-adas-0001.bin
+                #head-pose-estimation-adas-0001.xml
+           --FP32
+                #head-pose-estimation-adas-0001.bin
+                #head-pose-estimation-adas-0001.xml
+       --landmarks-regression-retail-0009
+           --FP16
+                #landmarks-regression-retail-0009.bin
+                #landmarks-regression-retail-0009.xml
+           --FP16-INT8
+                #landmarks-regression-retail-0009.bin
+                #landmarks-regression-retail-0009.xml
+           --FP32
+                #landmarks-regression-retail-0009.bin
+                #landmarks-regression-retail-0009.xml
     #face_detection.py
     #facial_landmarks_detection.py
     #gaze_estimation.py
